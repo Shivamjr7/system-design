@@ -21,6 +21,8 @@
     * Now you connect to the IP or any one IP of multiple IPS using TCP or UDP
     * In the above case also the Resolver can cache the IP and provide you next time you query
 
+![DNS QUERY DECONSTRUCTED.png](..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2Fvar%2Ffolders%2F_9%2F3_5ykpr111n0qj7cxcjmjdqh0000gn%2FT%2Fcom.apple.Notes%2FHardLinkURLTemp%2FCFC6307C-0820-4D8F-AE0F-75D708119470%2F1665585202%2FDNS%20QUERY%20DECONSTRUCTED.png)
+
 * Why so many trips to get IP ?
     * This is because you should always search in smaller datasets and so data is partitoned over multiple servers(ROOT , TLD, ANS)
 
@@ -33,3 +35,6 @@
 * Many prefer DoT
 * Many Attacks : DNS Hijacking , DNS cache posioning
 * nslookup to demo DNS (example : nslookup www.google.com)
+
+
+Amazone Route 53 : https://intellipaat.com/blog/what-is-aws-route53/
