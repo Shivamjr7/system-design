@@ -21,7 +21,8 @@
     * Now you connect to the IP or any one IP of multiple IPS using TCP or UDP
     * In the above case also the Resolver can cache the IP and provide you next time you query
 
-![Uploading DNS QUERY DECONSTRUCTED.png…]()
+<img width="472" alt="image" src="https://user-images.githubusercontent.com/29726341/216661146-8227e991-9d0e-4382-b446-4b8dadf7462e.png">
+
 
 * Why so many trips to get IP ?
     * This is because you should always search in smaller datasets and so data is partitoned over multiple servers(ROOT , TLD, ANS)
