@@ -22,7 +22,8 @@
     * Now you connect to the IP or any one IP of multiple IPS using TCP or UDP
     * In the above case also the Resolver can cache the IP and provide you next time you query
 
-      ![DNS QUERY DECONSTRUCTED.png](..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2Fvar%2Ffolders%2F_9%2F3_5ykpr111n0qj7cxcjmjdqh0000gn%2FT%2Fcom.apple.Notes%2FHardLinkURLTemp%2FCFC6307C-0820-4D8F-AE0F-75D708119470%2F1665585202%2FDNS%20QUERY%20DECONSTRUCTED.png)
+       <img width="472" alt="image" src="https://user-images.githubusercontent.com/29726341/216661146-8227e991-9d0e-4382-b446-4b8dadf7462e.png">
+
 
 * Why so many trips to get IP ?
     * This is because you should always search in smaller datasets and so data is partitoned over multiple servers(ROOT , TLD, ANS)
