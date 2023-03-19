@@ -37,3 +37,18 @@
 * A service needs to know as little as possible about other service 
 * public apis : yes , auth  : yes , db : no , rate limit : yes , communication protocol/contracts : yes
 
+## Shared Database pattern 
+
+## Database per service 
+
+## API Gateway 
+
+## Standardizing 
+
+* Standardized way of logging : There should be a standard way of logging
+* Building 
+* Choice of tech stack : what if someone choses tech stack which they knows but not enough engineers know that 
+* Manageable 
+* Observability 
+* Debuggable 
+
